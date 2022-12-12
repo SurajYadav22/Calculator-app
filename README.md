@@ -2,6 +2,6 @@
 
 # Welcome to my calculator!
 
-# Calculate here
+# Calculate here  👉 https://calculatorfor-you.netlify.app/
 
-https://calculatorfor-you.netlify.app/
+
